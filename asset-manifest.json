@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "//jtlamarre.github.io/jtlamarre/static/css/main.561a7460.chunk.css",
-    "main.js": "//jtlamarre.github.io/jtlamarre/static/js/main.9399f782.chunk.js",
-    "main.js.map": "//jtlamarre.github.io/jtlamarre/static/js/main.9399f782.chunk.js.map",
+    "main.js": "//jtlamarre.github.io/jtlamarre/static/js/main.6513b8ad.chunk.js",
+    "main.js.map": "//jtlamarre.github.io/jtlamarre/static/js/main.6513b8ad.chunk.js.map",
     "runtime-main.js": "//jtlamarre.github.io/jtlamarre/static/js/runtime-main.380a9b24.js",
     "runtime-main.js.map": "//jtlamarre.github.io/jtlamarre/static/js/runtime-main.380a9b24.js.map",
-    "static/js/2.8fedf7b4.chunk.js": "//jtlamarre.github.io/jtlamarre/static/js/2.8fedf7b4.chunk.js",
-    "static/js/2.8fedf7b4.chunk.js.map": "//jtlamarre.github.io/jtlamarre/static/js/2.8fedf7b4.chunk.js.map",
+    "static/js/2.12fe1d5b.chunk.js": "//jtlamarre.github.io/jtlamarre/static/js/2.12fe1d5b.chunk.js",
+    "static/js/2.12fe1d5b.chunk.js.map": "//jtlamarre.github.io/jtlamarre/static/js/2.12fe1d5b.chunk.js.map",
     "index.html": "//jtlamarre.github.io/jtlamarre/index.html",
-    "precache-manifest.52a0fb3ec7bfb3bbb16a15b2c6761167.js": "//jtlamarre.github.io/jtlamarre/precache-manifest.52a0fb3ec7bfb3bbb16a15b2c6761167.js",
+    "precache-manifest.81d13732501950f2cf8a751022f52438.js": "//jtlamarre.github.io/jtlamarre/precache-manifest.81d13732501950f2cf8a751022f52438.js",
     "service-worker.js": "//jtlamarre.github.io/jtlamarre/service-worker.js",
     "static/css/main.561a7460.chunk.css.map": "//jtlamarre.github.io/jtlamarre/static/css/main.561a7460.chunk.css.map",
-    "static/js/2.8fedf7b4.chunk.js.LICENSE.txt": "//jtlamarre.github.io/jtlamarre/static/js/2.8fedf7b4.chunk.js.LICENSE.txt",
+    "static/js/2.12fe1d5b.chunk.js.LICENSE.txt": "//jtlamarre.github.io/jtlamarre/static/js/2.12fe1d5b.chunk.js.LICENSE.txt",
     "static/media/EmployScreen1.PNG": "//jtlamarre.github.io/jtlamarre/static/media/EmployScreen1.49d691f4.PNG",
     "static/media/LetsGuess.PNG": "//jtlamarre.github.io/jtlamarre/static/media/LetsGuess.fb1bd075.PNG",
     "static/media/Pizza.PNG": "//jtlamarre.github.io/jtlamarre/static/media/Pizza.6957237c.PNG",
@@ -23,8 +23,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.380a9b24.js",
-    "static/js/2.8fedf7b4.chunk.js",
+    "static/js/2.12fe1d5b.chunk.js",
     "static/css/main.561a7460.chunk.css",
-    "static/js/main.9399f782.chunk.js"
+    "static/js/main.6513b8ad.chunk.js"
   ]
 }

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6798297c649aa29b3453af76407193f3",
+    "revision": "730e8f4183fa960a23279338bce30719",
     "url": "//jtlamarre.github.io/jtlamarre/index.html"
   },
   {
-    "revision": "3cba83f8c2f7bdce0b3b",
+    "revision": "e941e704fbd89ac503b5",
     "url": "//jtlamarre.github.io/jtlamarre/static/css/main.561a7460.chunk.css"
   },
   {
-    "revision": "731b4b33b6b1ee62f1bb",
-    "url": "//jtlamarre.github.io/jtlamarre/static/js/2.8fedf7b4.chunk.js"
+    "revision": "17b4b88d83928967890e",
+    "url": "//jtlamarre.github.io/jtlamarre/static/js/2.12fe1d5b.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "//jtlamarre.github.io/jtlamarre/static/js/2.8fedf7b4.chunk.js.LICENSE.txt"
+    "url": "//jtlamarre.github.io/jtlamarre/static/js/2.12fe1d5b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3cba83f8c2f7bdce0b3b",
-    "url": "//jtlamarre.github.io/jtlamarre/static/js/main.9399f782.chunk.js"
+    "revision": "e941e704fbd89ac503b5",
+    "url": "//jtlamarre.github.io/jtlamarre/static/js/main.6513b8ad.chunk.js"
   },
   {
     "revision": "9c0c2e53127b97023a1d",
