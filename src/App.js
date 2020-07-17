@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
  
-import Home from './components/pages/Home';
-import Portfolio from './components/pages/Portfolio.js';
-import Contact from './components/pages/Contact';
-import Error from './components/pages/Error';
-import Navigation from './components/pages/Navigation';
+import Home from './components/pages/home';
+import Portfolio from './components/pages/portfolio.js';
+import Contact from './components/pages/contact';
+import Error from './components/pages/error';
+import Navigation from './components/pages/navigation';
  
 class App extends Component {
   render() {
