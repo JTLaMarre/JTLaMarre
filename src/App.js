@@ -15,7 +15,7 @@ class App extends Component {
         <div>
           <Navigation />
             <Switch>
-             <Route path="/github.com/JTLaMarre.github.io" component={Home} exact/>
+             <Route path="/github.com/jtlamarre.github.io" component={Home} exact/>
              <Route path="/" component={Home} exact/>
              <Route path="/portfolio" component={Portfolio}/>
              <Route path="/contact" component={Contact}/>
