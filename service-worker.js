@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "//jtlamarre.github.io/JTLaMarre/precache-manifest.4eb7643e0d8877be715cb46b906c0ab2.js"
+  "//jtlamarre.github.io/jtlamarre/precache-manifest.52a0fb3ec7bfb3bbb16a15b2c6761167.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("//jtlamarre.github.io/JTLaMarre/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("//jtlamarre.github.io/jtlamarre/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });
